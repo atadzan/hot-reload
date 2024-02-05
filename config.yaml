@@ -1,0 +1,4 @@
+server:
+  Host: "localhost"
+  Port: 8080
+  WelcomeMessage: "Welcome to hot-reloading server-2"
